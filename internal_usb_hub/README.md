@@ -3,9 +3,20 @@ GPD Pocket Internal USB HUB
 
 This is a modification gadget for GPD Pocket, which add three USB ports to maintain other original functions.
 The addition is performed in a smart way by just replacing the original FPC between main and sub boards to this device.
-  
+
+# Gallery
+## Implementation (Rev.A board)
+<a href='https://github.com/fenrir-naru/GPD_Pocket-mods/blob/master/internal_usb_hub/HUB_FPC_assembled_0.jpg'><img src='https://raw.githubusercontent.com/fenrir-naru/GPD_Pocket-mods/master/internal_usb_hub/HUB_FPC_assembled_0.jpg' width='400px' /></a>
+
+<a href='https://github.com/fenrir-naru/GPD_Pocket-mods/blob/master/internal_usb_hub/HUB_FPC_assembled_1.jpg'><img src='https://raw.githubusercontent.com/fenrir-naru/GPD_Pocket-mods/master/internal_usb_hub/HUB_FPC_assembled_1.jpg' width='400px' /></a>
+
+## Before / after of device manager
+<a href='https://github.com/fenrir-naru/GPD_Pocket-mods/blob/master/internal_usb_hub/HUB_FPC_before.png'><img src='https://raw.githubusercontent.com/fenrir-naru/GPD_Pocket-mods/master/internal_usb_hub/HUB_FPC_before.png' width='400px' /></a>
+
+<a href='https://github.com/fenrir-naru/GPD_Pocket-mods/blob/master/internal_usb_hub/HUB_FPC_after.png'><img src='https://raw.githubusercontent.com/fenrir-naru/GPD_Pocket-mods/master/internal_usb_hub/HUB_FPC_after.png' width='400px' /></a>
+
 # Board
-[EagleCAD](http://www.cadsoftusa.com/) files are available ([schematics](https://github.com/fenrir-naru/GPD_Pocket-mods/blob/master/internal_usb_hub/HUB_FPC.sch) and [layout](https://github.com/fenrir-naru/GPD_Pocket-mods/blob/master/internal_usb_hub/HUB_FPC.brd). Its components are listed in [BOM](https://github.com/fenrir-naru/GPD_Pocket-mods/tree/master/internal_usb_hub#bom-bill-of-material). The board design is published under [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
+[EagleCAD](http://www.cadsoftusa.com/) files are available ([schematics](https://github.com/fenrir-naru/GPD_Pocket-mods/blob/master/internal_usb_hub/HUB_FPC.sch) and [layout](https://github.com/fenrir-naru/GPD_Pocket-mods/blob/master/internal_usb_hub/HUB_FPC.brd). The gerber files are also available in [zip format](https://github.com/fenrir-naru/GPD_Pocket-mods/blob/master/internal_usb_hub/gerber.zip). Its components are listed in [BOM](https://github.com/fenrir-naru/GPD_Pocket-mods/tree/master/internal_usb_hub#bom-bill-of-material). The board design is published under [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ## BOM (bill of material)
 
